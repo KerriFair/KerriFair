@@ -13,7 +13,7 @@ permalink: /cyberpunk_red
 		font-family: comfortaa, consolas, unicode;
 	}
 
-	.post, .post-info, h1, h2, h3, h4, h5, h6, .nav a {
+	.post, .post-info, h1, h2, h3, h4, h5, h6 {
 		color: #f90 !important;
 		font-weight: 700;
 		font-family: comfortaa, consolas, unicode;
